@@ -13,8 +13,8 @@ def my_factorial(n):
 
 
 try:
-    n = int(input())
-    result = my_factorial(n)
-    print(f"{n}! = {result}")
+    k = int(input())
+    result = my_factorial(k)
+    print(f"{k}! = {result}")
 except ValueError as e:
     print(f"Ошибка: {e}")
