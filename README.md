@@ -1,3 +1,4 @@
 # ranepa_rep
-fsdfseffs
-dfsdfsdfsfsf
+бот для Telegram»
+«анализ новостных заголовков»
+«мини-игра в терминале»
