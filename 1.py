@@ -1,8 +1,8 @@
-import math as m
+import math
 
 def main():
     n = int(input().strip())
-    result = m.factorial(n)
+    result = math.factorial(n)
     print(result)
 
 if __name__ == "__main__":
