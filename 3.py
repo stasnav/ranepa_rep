@@ -1,5 +1,5 @@
 from math import factorial
 
-n = int(input().strip())
-result = factorial(n)
+k = int(input().strip())
+result = factorial(k)
 print(result)
